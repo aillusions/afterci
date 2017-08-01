@@ -27,9 +27,9 @@
 
 * Універсал Мед обладнання
 
-* verba-ua.jimdo.com
+* http://verba-ua.jimdo.com
 
-* surdo.com.ua
+* http://surdo.com.ua
 
-* spilka-ki.jimdo.com
+* http://spilka-ki.jimdo.com
 

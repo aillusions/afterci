@@ -1,19 +1,23 @@
 ## Посилання 
 
-    http://usharik.ru/site/book/zontova_book/index.html
-    http://usharik.ru/site/book/workbook1/index.html
+* http://usharik.ru/site/index.php/usharik/skazki/100
 
+* http://usharik.ru/site/book/zontova_book/index.html
+
+* http://usharik.ru/site/book/workbook1/index.html
+
+* http://usharik.ru/site/index.php/news/319
 
 ### Групи фейсбук
 
 * Инфослух
-  * https://www.facebook.com/groups/1240103892711762/?ref=bookmarks
+  * https://www.facebook.com/groups/1240103892711762
 
 * КІ-СПІЛКА
-  * https://www.facebook.com/groups/339891009760389/?ref=bookmarks
+  * https://www.facebook.com/groups/339891009760389
 
 * Дітки після КІ.Обмін досвідом,поради,роздуми на тему.
-  * https://www.facebook.com/groups/1290552454292530/?ref=bookmarks
+  * https://www.facebook.com/groups/1290552454292530
 
 ### Статті 
 

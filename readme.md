@@ -7,6 +7,8 @@
 
 [Концепції](ideas.md)
 
+[Загальний опис методик](methods/method.md)
+
 [Календар розвитку](calendar.md)
 
 [Словник](vocab.md)

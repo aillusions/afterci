@@ -11,6 +11,8 @@
 
 [Календар розвитку](misc/calendar.md)
 
+[Прродні жести](misc/sign_lang.md)
+
 [Словник](misc/vocab.md)
 
 [Завантаження](misc/downloads.md)

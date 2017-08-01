@@ -5,19 +5,19 @@
 ---
 
 
-[Концепції](ideas.md)
+[Концепції](misc/ideas.md)
 
 [Загальний опис методик](methods/method.md)
 
-[Календар розвитку](calendar.md)
+[Календар розвитку](misc/calendar.md)
 
-[Словник](vocab.md)
+[Словник](misc/vocab.md)
 
-[Завантаження](downloads.md)
+[Завантаження](misc/downloads.md)
 
-[Про імплантацію](ci.md)
+[Про імплантацію](misc/ci.md)
 
-[Посилання](refs.md)
+[Посилання](misc/refs.md)
 
-[Контакти](contacts.md)
+[Контакти](misc/contacts.md)
 

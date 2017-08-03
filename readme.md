@@ -64,7 +64,11 @@
 
 [What is Auditory-Verbal Therapy](downloads/what-is-auditory-verbal-therapy-cochlear-implant.pdf)
 
-https://www.rchsd.org/documents/2014/04/what-is-auditory-verbal-therapy-cochlear-implant.pdf
+<details>
+ <summary>Джерело</summary>
+ 
+ https://www.rchsd.org/documents/2014/04/what-is-auditory-verbal-therapy-cochlear-implant.pdf
+</details>
 
 * All skills are taught with an emphasis on listening – audition first!
 * One of the main premises of the Auditory-Verbal approach is that parents are their children’s primary language role model in the preschool years.
@@ -103,7 +107,11 @@ There are many more activities beyond those mentioned. In addition to daily acti
 Most parents today find that there are simply not enough hours in the day to accomplish all the tasks that must be done, such as cleaning the house, doing laundry, or grocery shopping, and, for many, a full day of work outside the home as well. Thus, to add to this list becoming their child’s primary language teacher is daunting. However, as evidenced by the suggestions above, if one can develop the mindset that language is everywhere, this task becomes not only feasible but also enjoyable, giving parents and their children the opportunity to share valuable time together and making learning fun for the child. Parents are always their children’s first language teachers, and they do have the necessary tools.
 
 
-http://cochlearimplantonline.com/site/?page_id=636
+<details>
+ <summary>Джерело</summary>
+ 
+ http://cochlearimplantonline.com/site/?page_id=636
+</details>
 
 
 <details>

@@ -62,7 +62,7 @@
 ---
 
 
-[What is Auditory-Verbal Therapy](what-is-auditory-verbal-therapy-cochlear-implant.pdf)
+[What is Auditory-Verbal Therapy](downloads/what-is-auditory-verbal-therapy-cochlear-implant.pdf)
 
 https://www.rchsd.org/documents/2014/04/what-is-auditory-verbal-therapy-cochlear-implant.pdf
 

@@ -18,6 +18,7 @@
 
 <details>
  <summary>Див. джерела</summary>
+ 
  ![](/downloads/dev_stages/IMG_0617.JPG)
  ![](/downloads/dev_stages/IMG_0618.JPG)
  ![](/downloads/dev_stages/IMG_0619.JPG)
@@ -26,6 +27,7 @@
  ![](/downloads/dev_stages/2eeee63c8f084bdd011ea7add117c570.jpg)
  ![](/downloads/dev_stages/3bf283133b9c981e8056867b031c31c4.jpg)
  ![](/downloads/dev_stages/JIndianSocPedodPrevDent_2012_30_2_103_99979_b1.jpg)
+ 
 </details>
 
 

@@ -17,7 +17,7 @@
 
 
 <details>
- <summary>Див. джерела</summary>
+ <summary>Джерело</summary>
  
  ![](/downloads/dev_stages/IMG_0617.JPG)
  ![](/downloads/dev_stages/IMG_0618.JPG)
@@ -68,6 +68,9 @@
  
  https://www.rchsd.org/documents/2014/04/what-is-auditory-verbal-therapy-cochlear-implant.pdf
 </details>
+
+
+
 
 
 * All skills are taught with an emphasis on listening – audition first!

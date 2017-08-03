@@ -12,6 +12,7 @@
 
 
 
+
 Наявність дзеркала 
 
 Ling Six-Sound Test

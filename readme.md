@@ -15,9 +15,14 @@
 10-12 міс | Syllable variation (e.g. badugatadudah). First words approximations (e.g. dada for daddy). Знаходить джерело звуку на відстані. Виділяє голос з фонових щвуків. Співвідносить більшу частину слів з їх значенням, може виконувати прості команди та прохання (іноді може дати іграшку на вербальне прохання, іноді виконати: 'поклади на місце'). Реагує на музику рухами. 'Розмовляє' з іграшками копіюючи інтонацію доросних. Чергує голосні та приголосні. Хитає головою в знак заперечної відповіді. Подає голос на поклик матері.  
 13-15 міс | Виконує знайомі вказівки на одну дію. Розуміє прості запитання, наприклад: де (тато)? Розпізнає назви частин тіла. Використовує 7+ слів (10-15 words). Імітує слова, співає. Починає розуміти питання: що, де, коли, як.
 
-![](/downloads/2eeee63c8f084bdd011ea7add117c570.jpg)
-![](/downloads/3bf283133b9c981e8056867b031c31c4.jpg)
-![](/downloads/JIndianSocPedodPrevDent_2012_30_2_103_99979_b1.jpg)
+![](/downloads/dev_stages/IMG_0617.JPG)
+![](/downloads/dev_stages/IMG_0618.JPG)
+![](/downloads/dev_stages/IMG_0619.JPG)
+![](/downloads/dev_stages/IMG_0620.JPG)
+![](/downloads/dev_stages/IMG_0621.JPG)
+![](/downloads/dev_stages/2eeee63c8f084bdd011ea7add117c570.jpg)
+![](/downloads/dev_stages/3bf283133b9c981e8056867b031c31c4.jpg)
+![](/downloads/dev_stages/JIndianSocPedodPrevDent_2012_30_2_103_99979_b1.jpg)
 
 
 [Концепції](misc/ideas.md)

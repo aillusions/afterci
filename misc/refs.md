@@ -27,7 +27,11 @@
 
 
 http://www.cochlear.com/wps/wcm/connect/au/home/support/rehabilitation-resources/early-intervention
+
 http://www.cochlear.com/wps/wcm/connect/in/home/support/rehabilitation-resources/early-intervention/sound-foundation-for-babies
+
 http://www.cochlear.com/wps/wcm/connect/in/home/support/rehabilitation-resources/early-intervention/sound-foundation-for-toddlers
 
 http://www.medel.com/us/bridge-downloads
+
+https://www.facebook.com/Parents-of-Kids-with-Cochlear-Implants-319745916090/

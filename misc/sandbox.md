@@ -156,3 +156,67 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
  
  В наш детский сад был направлен неорганизованный ребёнок  (1год 5 мес) по заключению ПМПК с диагнозом «Двухсторонняя сенсоневральная глухота, состояние после кохлеарной имплантации», то мне пришлось изучить много  специальной литературы такой как: Королёва И. В. «Развитие слуха и речи у глухих детей раннего возраста после кохлеарной имплантации», «Дети с нарушением слуха», «Кохлеарная имплантация и дети», О. В. Зонтова « Рекомендации для родителей по развитию слухового восприятия детей с нарушенным слухом» и некоторые источники в интернете. С  первых занятиях  начала использовать игры, которые помогают различать и опознавать неречевые звуки, и привлекала внимание к звучащим предметам. Для этого использовала такие игры «Кто в гости пришел?», «Где звенит?», «Тихо- громко», «Звенит не звенит», «Тук-тук», так же  включала в свою работу игры презентации цель которых — узнавать звуки окружающей среды с разной громкостью. Перед предъявлением звука или слова привлекала слуховое, и зрительное внимание ребенка указывала на своё ухо и говорила  «Слушай». Например, при проведении игры «Тук-тук» повторяла слова и стучала по столу, мама помогала привлечь внимание к моим действиям, повторяла «тук-тук» и показывала на ухо: «Ты слышишь?» я слышу «тук-тук». Принципиально важным является повторение одних и тех же слов, действий, жестов, что помогает запоминать слова и действия. Малыши любят открывать и закрывать разные коробочки, вынимать и убирать в них мелкие предметы. На этом основана игра «Шумящие коробочки», во время игры малыш слышит повторяющиеся звуки. Главное в таких играх вызвать интерес к звукам, развивать навык прислушиваться к звучанию разных предметов. В каждое занятие включаю упражнения на развитие дыхания и мелкую моторику, это так же способствует развитию речи. 
  Источник: http://logoportal.ru/sluhorechevaya-reabilitatsiya-detey-doshkolnogo-vozrasta-s-kohlearnyim-implantantom/.html
+ 
+ 
+ 
+ In the evenings, read bedtime stories.
+ These are useful in more ways than
+ one. They help to develop your child’s
+ language. They provide valuable information.
+ They arouse a child’s natural
+ curiosity. You can even take photos of
+ vacations, family, pets, and things you
+ have done, and put them in a book to
+ talk about later on.
+ When you’ve finished reading, remember
+ to leave on a nightlight. Children
+ with normal hearing can still hear the
+ television and the clink of a spoon in a
+ coffee cup even when the lights are
+ out, but children with hearing loss
+ appreciate the feeling of security a
+ nightlight can provide.
+ 
+ Always talk to your child, even though
+ he or she may not always fully understand
+ what you’re saying. The only way
+ to encourage him or her to develop
+ spoken language and the right kind of
+ behavior is by speaking clearly yourself,
+ and by setting a good example.
+ And remember that your facial expressions
+ and body language also tell an
+ interesting story!
+ 
+ Getting involved in practical tasks,
+ such as doing the laundry. Name
+ different items of clothing, explain
+ loading the washer and talk about
+ the sounds it makes. Talk about
+ what you are doing as you go along.
+ 
+  Involve your child in the kitchen
+ activities. If you are baking cookies
+ or cupcakes, talk about the different
+ ingredients, and explain where they
+ come from. Find or draw pictures to
+ help your child make the connection
+ between eggs and chickens, flour
+ and corn, etc.
+ 
+  Picture games are also very useful
+ when teaching your child about
+ objects, concepts, and language.
+ 
+  If you go for a walk or a drive, point
+ out different things you see and
+ describe them as you go by.
+ 
+  Before going shopping, go through
+ some of the items you’re going to
+ buy on the shopping list. Again,
+ make drawings if necessary. And let
+ your child try to find some of the
+ different products on the shelves
+ 
+ https://www.oticon.com/~/media/oticon%20us/main/download%20center/family%20support%20materials/professional%20all/35103%20parents%20guide.pdf

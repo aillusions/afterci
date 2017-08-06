@@ -220,3 +220,209 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
  different products on the shelves
  
  https://www.oticon.com/~/media/oticon%20us/main/download%20center/family%20support%20materials/professional%20all/35103%20parents%20guide.pdf
+ 
+ 
+---
+ 
+ It is vitally important that parents are involved in the habilitation of their child immediately following a cochlear implant. Much of this habilitation can be achieved through listening activities. These activities can be done during structured play sessions, or throughout the day while you are doing everyday tasks, such as shopping trips, bath-time etc. It is important to be aware of the language level of your child, and this will depend on the age of the child, their level of understanding, and their auditory abilities prior to the implant. It is vitally important to start training at the right level and not make tasks too difficult, so the child can be motivated by a high success rate during activities.
+ 
+ 
+ Auditory training
+ 
+ There is a hierarchy of treatment with auditory training, and if you are starting at the beginning with a child that has only recently been aided or implanted, the initial auditory work will just be getting the child to discriminate between sound and no sound. Firstly, a child just needs to hear and react to sounds. Can they tell the difference between no sound and a sound? Do they react with a pause or a look when they hear a new sound? One way to start sound awareness is to encourage the child to wait, with their back to you, then you make a sound with a toy or object (such as shaking a marble in a cup), and see if they react. When the child hears the sound and reacts, praise him. Doing this in a structured activity relies on teaching the child a conditioned response. This means they will respond by looking, touching, holding your hand or even putting a bean in a cup, each time they hear a sound. Initially, although the child may acknowledge sounds, they may not necessarily recognise them. When the child can react to the difference between sound and no sound we work through a number of steps:
+ 
+ Discrimination between long and short sounds
+ Discrimination between 2 different sounds. If working on speech sounds, discriminating vowel sounds can be difficult so we must use sounds that are not only different, but also have different formant frequencies
+ Differentiating between one and two syllable words/nonsense words
+ Discriminating between words containing different vowels (e.g pot and pet)
+ Discriminating between words with different initial or final sounds (e.g. day/pay or hearse/herd
+ Discriminating words in Closed Set word lists and Open Set word lists. Closed set word lists may be a smaller set of words that are familiar to the listener and initially quite different in sound. Open set word lists introduce new words and might be more complicated because some words may be in the same category or have similar sounds.
+ An example of a Closed Set word list - shoe, pyjamas, gloves (this group of words has different initial sounds, different vowel sounds, and pyjamas has more syllables). A much harder closed set would be - hat, mat, mouse, house, rat (this group is more difficult as some initial and vowel sounds are the same, there is rhyme, and there are also words with close semantic links e.g. Mouse/rat). An Open Set word list can have an endless list of choices and exposes the child to new words, these tasks are much  more difficult.
+ 
+ The initial stages of sound development
+ 
+ A newly implanted child is likely to have very little sound knowledge. It is the role of parents and/or caregivers to label these sounds for the child, bring the child’s attention to the sound and have a joint focus. Outside the therapy environment the parent or caregiver should be alerting the child to all sorts of sounds, pointing to the source of sounds, naming the source of sounds, and having a joint focus.
+  
+ 
+ Listen, can you hear the bird?	Yes, it's a car
+ 
+ Once the child starts to become aware of their own name and some sounds around them in the environment, it might be time to look at doing some more structured tasks involving pattern perception. Pattern perception refers to a child’s ability to differentiate between long and short sounds, or continuous and interrupted sounds, and later, small words and big words. To start with, we want to perform closed set activities, meaning that the child knows and is aware of all the sounds or words we want them to listen to. For instance, look at a familiar group of toys and name them all so the child is familiar with them. Then choose two toys which vary in name, sound, and syllable length, and without using sign or letting the child lipread, (sit behind or at the side of the child), name one item and see if the child can point to it by listening, discriminating and understanding. Once the child becomes used to the game and adept at discriminating sounds you can do this activity throughout the day, for instance, discriminating between products in a shop, or objects when out for a walk. As the child improves, increase the number of items in the choice from two to three, and so on.
+ 
+ As the child’s skills develop, you can progress to using simple sentences in closed tasks e.g. This can begin with some same/different tasks e.g. 2 sets of the same words, but one set has a different word at the end - “are these 2 sets the same, or different?”
+ 
+ pot pot pot pot       pot pot pot pet
+ tap tap tap tap       tap tap tap tap
+ Asking the child to discriminate words in phrases and words with background noise will also facilitate their listening development. Finally, to promote their word knowledge, we offer choices with questions (e.g. “Which one do you write with”), so their auditory comprehension is developed further. Once the child feels confident at this level, we need to start considering open set tasks. Open set tasks begin to introduce new sounds or words that the child is not familiar with. The child will need to discriminate, learn and attempt to articulate them as their skills develop.
+ 
+ Auditory Verbal Therapy
+ 
+ One of the most successful approaches for facilitating speech and listening for children with cochlear implants, is Auditory Verbal Therapy. This approach focuses on listening and sound awareness, as this is the most natural and efficient way that children learn speech. With auditory verbal therapy every possible opportunity to listen and learn is used through the day, using the child's environment as a learning tool.
+ 
+ Auditory Verbal Therapy (AVT) involves the family and Speech and LanguageTherapist/Pathologist (SLT) who facilitate the child to learn to talk through listening (as a naturally hearing child would learn). Listening, speech, and language are all developed through active listening activities which become a part of play, education and communication on a daily basis. Parents are encouraged to be the primary facilitators of their child’s listening and speech development.
+ 
+ The process is helped by early diagnosis of hearing impairment and the fitting of hearing aids or a cochlear implant for optimal amplification. Parents also have to be committed to participate and work closely with the relevant professionals. The child learns through listening rather than watching. AVT should be administered by a qualified Auditory-verbal therapist who will guide and work with the parents so that they re-produce therapy activities at home in a natural way. Many of the activities we have discussed earlier will be part of the AVT program.
+ 
+ CI coilOne of the techniques used in AVT is called an “auditory sandwich” where the therapist sits on the aided side of the child repeating auditory information several times, then presenting a visual clarifier (object, picture etc), and then presenting the auditory information again, making sure to use language that is rich in suprasegmental qualities (e.g. Pitch, prosody etc).
+ 
+ Acoustic highlighting is also used to stimulate the listening environment. This involves using variables such a background noise, distance, complexity and rate of utterance to vary the acoustic conditions and really train the child to listen.
+ 
+ There are a number of levels of development of speech and listening skills following the implant:
+ 
+ Awareness of sound - responding to sounds
+ Sound has meaning - associating a specific sound with an object in the environment  
+ Early Listening - responding to music, vocalising, imitating mothers vocal play, some approximations of short words - e.g. “Mama”
+ Discrimination - discriminating between environmental sounds (inside and outside), quiet and loud sounds and different peoples' voices. Beginning to recognise own name, discriminating some short common phrases, imitating some short phrases
+ Localisation Skills - beginning to be able to localise sounds from increasing distances
+ Distance and directional listening - having awareness of sounds in all directions. Discriminating familiar words and familiar commands from all directions at increasing distances
+ Listening in background noise - recognising familiar words, phrases and commands with increasing differences, in all directions with background noise
+ Auditory memory and sequencing - ability to make choices from several options, starting to have ability to select pictures in sequence. Imitating several word sequences
+ Development of short term memory - ability to pick several named objects from a larger group. Longer term memory will also expand, remembering names and more vocabulary
+ Using more words and phrases, and knowing some simple songs. Ability to recount information such as addresses and describe past events
+ This development will not happen overnight and the success of therapy will be dependant on total commitment from the parents, caregivers and educational healthcare team around the child.
+ 
+ Speech
+ 
+ At the same time as teaching listening, we also want to promote speech. Trying to get children to repeat or name items on request is not the best way to teach speech, we need to find a way for the child to speak on their own terms, where they are in control and in a relaxed environment with no pressure. We need to provide good models for speech, not only naming things for the child, but also repeating back a correct version of their attempts at speech, and praising them every time they attempt speech.
+  
+ 
+ Playing with dolls	Yes, it's a car
+ 
+ Once the child is actively listening, discriminating and using some speech we can start to look at some speech therapy ideas that focus on speech as well as listening. Usually it helps if the child is a little older when you want to start speech work, because the younger child is often either unaware of what the therapist is trying to achieve, and/or it is difficult to describe certain concepts such as back and front sounds etc. However, listening activities should still be the priority.
+ 
+ It will take time for the child to develop their new listening skills and speech. We have to remember that for some children it will be as if they have the hearing of a newborn and every sound they hear will be new. A cochlear implant can be very effective at promoting listening and speech skills and many children’s speech will eventually become as good as their peers.
+ 
+ Suggested reading
+ 
+ Cochlear Implants: A Practical Guide by Huw Cooper and Louise Craddock
+ Hearing Impairment, Auditory Perception and Language Disability by John Bamford and Elaine Saunders
+ Children With Hearing Loss: A Family Guide by David Luterman
+ Auditory-Verbal Therapy for Parents and Professionals by Warren Estabrooks
+ A Journey into the Deaf-World by Harlan L. Lane, Robert Hoffmeister, and Ben Bahan
+ Inside Deaf Culture by Carol A. Padden and Tom L. Humphries
+ Rebuilt: My Journey Back to the Hearing World by Michael Chorost
+ Helping Deaf and Hard of Hearing Students to Use Spoken Language: A Guide for Educators and Families by Susan Easterbrooks and Ellen L. Estes
+ Cochlear Implants by Susan B., Ph.D. Waltzman and J. Roland
+ Cochlear Implants: A Practical Guide by Huw Cooper and Louise Craddock
+ School Professionals Working With Children With Cochlear Implants by Patricia M. Chute and Mary Ellen Nevins
+ Auditory-Verbal Therapy and Practice by Warren Estabrooks
+ Cochlear Implants: Auditory Prostheses and Electric Hearing by Fan-Gang Zeng, Arthur N. Popper, and Richard R. Fay
+ Children with Cochlear Implants in the Educational Setting (School-Age Children Series) by Mary Ellen Nevins and Patricia M. Chute
+ Better Communication and Cochlear Implants: A User's Guide by Donna S.Wayner; Judy Abrahamson; June Casterton
+ Cochlear Implant Rehabilitation in Children and Adults by Dianne Allum
+ 
+ 
+ http://www.aussiedeafkids.org.au/communication-and-habilitation-for-wearers-of-cochlear-implants.html
+ 
+ 
+ 
+ 
+ 
+ 
+##  Аудіо-вербальна терапія (auditory verbal therapy, AVT)
+
+(Сучасна методика слухомовної реабілітації)
+
+---
+
+
+[What is Auditory-Verbal Therapy](downloads/what-is-auditory-verbal-therapy-cochlear-implant.pdf)
+<details>
+ <summary>Джерело</summary>
+ 
+ https://www.rchsd.org/documents/2014/04/what-is-auditory-verbal-therapy-cochlear-implant.pdf
+</details>
+
+* All skills are taught with an emphasis on listening – audition first!
+* One of the main premises of the Auditory-Verbal approach is that parents are their children’s primary language role model in the preschool years.
+
+The Parent as a Language Teacher
+Written By Melissa Chaikof
+
+One of the main premises of the Auditory-Verbal approach is that parents are their children’s primary language role model in the preschool years. Both formally and informally, in their daily interactions with their children, they have the greatest opportunity to impart language. While the children’s daily lesson with their parents is an integral part of this philosophy, not to be overlooked are all the language opportunities present throughout the day. Following are some suggestions for parents to incorporate language learning into their daily routines.
+
+Washing dishes: Water play is important because children must take off their hearing aids or cochlear implant processor while bathing or swimming. In addition to naming all the dishes and utensils, language involved in washing dishes includes hot, cold, soap, bubbles, wet, dry, towel, dripping, etc. Similarly, bathing a doll in a toy bathtub provides an opportunity for teaching body parts.
+
+Setting the table: This is a good source for language about dishes and utensils, napkins vs. bibs, etc., and also for naming people in the family by talking about who sits in which seat.
+
+Sorting and folding laundry: The child can learn the names of everyone in the house while sorting the laundry, including learning the possessive construction while talking about “Daddy’s shirt, Mommy’s pants,” etc. In addition, this is a wonderful chance to talk about colors, sizes, including long and short, big and little, comparisons of bigger, smallest, and so on.
+
+Making beds: There is so much language that is particular only to this task, such as tucking in, sheet, blanket, quilt, mattress, head and foot of the bed, and pulling tight. This language must be learned naturally.
+
+Baking cookies: While baking cookies, the parent can describe all the ingredients and actions, such as pour, mix, beat, sift, and can use adjectives such as lumpy, thick, and hot.
+
+Feeding time. Simple feeding in the highchair involves making choices. Also, names of foods, dishes and utensils come into play again, as do adjectives, such as green peas, orange cheese, flat pancakes, round cookies, hard cookies, and soft bread.
+
+Trips to the grocery store. While sitting in the seat of the shopping cart, the child is a captive audience. This provides an excellent opportunity to teach the names of foods, as well as descriptive words, such as long, yellow bananas, round, bumpy oranges, square, smooth boxes, etc.
+
+In addition to incorporating language learning into daily routine chores, such as suggested above, there are fun games and activities that parents can play with their children that offer even more teaching opportunities.
+
+Hiding games. In the early stages, the parents can hide an object somewhere in the house and tell the child where to find it, using language such as “under the pillow” or “behind the couch.” As the child grows older, the game can become more abstract with the parent providing only clues about where the object is, such as, “It’s in something that can burn.”.
+
+“Simon Says”: an old game that many may remember from their childhood. The parent gives an instruction, and the child must only follow the instruction when the parent says “Simon says” to do it. Thus, the child must listen very carefully for what the parent asks.
+
+Board games: In addition to the language inherent in each game, playing these games entails learning turn-taking, a skill which is preliminary and vital to conversation.
+
+Experience books: These are books created by parents that can range from crude stick figure drawings of an event in the child’s day to elaborate drawings or photographs. Polaroid photos are particularly useful for these books as the photos are immediately available before the child has forgotten about the experience.
+
+There are many more activities beyond those mentioned. In addition to daily activities, playing with toys contains so much language potential that Sue Schwartz, Ph.D., has written an entire book on the subject, The New Language of Toys. She divides the book into age ranges, lists toys for each age group, and provides language samples for each toy. Another valuable book for parents is Learning to Listen, Pat Vaughan, ed., which has become somewhat of a bible for auditory-verbal parents. In addition to some personal stories, this book contains an entire section on auditory training at home. It provides lists of household items to gather, materials to buy for lessons, and props to make. Then, sample lessons are described.
+
+Most parents today find that there are simply not enough hours in the day to accomplish all the tasks that must be done, such as cleaning the house, doing laundry, or grocery shopping, and, for many, a full day of work outside the home as well. Thus, to add to this list becoming their child’s primary language teacher is daunting. However, as evidenced by the suggestions above, if one can develop the mindset that language is everywhere, this task becomes not only feasible but also enjoyable, giving parents and their children the opportunity to share valuable time together and making learning fun for the child. Parents are always their children’s first language teachers, and they do have the necessary tools.
+<details>
+ <summary>Джерело</summary>
+ 
+ http://cochlearimplantonline.com/site/?page_id=636
+</details>
+
+
+<details>
+ <summary>Інші методики..</summary>
+ 
+### Методика Леонгард
+
+* Основой Системы Э.И.Леонгард является отношение к неслышащим как к равным со слышащими в возможностях психического, языкового, культурного, социального, физического развития, но нуждающихся в специальной и длительной помощи 
+* Слухопротезирование бинауральное
+* занятия по развитию речевого восприятия и дифференциации слухового различения
+* В систему абилитации должны быть включены родители
+* Жестовый язык не должен использоваться в обучении и развитии глухих и слабослышащих детей до овладения ими устной и письменной речью
+* При нашем подходе развитие речевого слуха происходит в единстве с развитием у детей понимания речи и в устной, и в письменной формах. Это отличает нас от других подходов, при использовании которых развитие слухового восприятия и развитие речи фактически являются двумя обособленными процессами, отчего у детей страдает  понятийная сторона речи, и дети испытывают большие трудности при чтении текстов по всем школьным дисциплинам
+* Разговаривать нужно совершенно естественно, и каждый член семьи должен сохранять свою манеру речи. В ходе обучения постоянно организуются  специальные ситуации общения (описанные в методических рекомендациях), кроме этого, ребёнок живёт в речевой среде, поэтому он приучается  понимать естественную речь слышащих людей
+* Занятия должны естественным образом вплетаться в жизнь. Упраженение должно быть игровой или бытовой ситуацией. Надо сделать так, чтобы ребенку было интересно с родителями не только, когда с ним играют, но и когда родители заняты деятельностью, обычной в повседневной жизни. К этим занятиям привлекается необходимый словарь, родители должны называть предметы и действия, которые совершают. Если ребенок учится читать, то именно в таких случаях появляются первые таблички.
+
+### Методика Суваг
+
+* ...
+
+
+</details>
+
+
+
+---
+
+<details>
+ <summary>В розробці ..</summary>
+  
+ [Концепції](misc/ideas.md)
+ 
+ [Загальний опис методик](methods/method.md)
+ 
+ [Прродні жести](misc/sign_lang.md)
+ 
+ [Словник](misc/vocab.md)
+ 
+ [Завантаження](misc/downloads.md)
+ 
+ [Про імплантацію](misc/ci.md)
+ 
+ [Посилання](misc/refs.md)
+ 
+ [Контакти](misc/contacts.md)
+ 
+ [Технічні засоби](misc/tech.md)
+    
+</details>
+
+
+
+
+

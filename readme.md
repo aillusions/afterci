@@ -28,6 +28,7 @@ TODO: відео/аудіо приклади
  ![](/images/dev_stages/3bf283133b9c981e8056867b031c31c4.jpg)
  ![](/images/dev_stages/JIndianSocPedodPrevDent_2012_30_2_103_99979_b1.jpg)
  ![](/images/dev_stages/Screen-Shot-2017-08-06-15.39.32.png)
+ ![](/images/dev_stages/etapy_razvitiya_sluh_rech.jpg)
  
 </details>
 

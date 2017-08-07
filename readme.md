@@ -236,7 +236,7 @@ http://studydoc.ru/doc/3833021/rabot-s-det._mi-s-narushenie-sluha
 * "Узнай по голосу": Перед ребенком картинки с изображением домашних животных и их детенышей -коровы  и  теленка,  овцы  и  ягненка  и  т.п.  Каждое звукоподражание  взрослый  произносит  то  низким  голосом  (корова),  то высоким  (теленок).  Ребенок,  ориентируясь  на  качество  и  высоту  звука одновременно, находит соответствующую картинку (например, изображение коровы или теленка) 
 * Вибір по картинкам АМСУШІ
 
-## 
+## Залучення дитини до домашнього господартсва
 
 * Washing dishes: Water play is important because children must take off their hearing aids or cochlear implant processor while bathing or swimming. In addition to naming all the dishes and utensils, language involved in washing dishes includes hot, cold, soap, bubbles, wet, dry, towel, dripping, etc. Similarly, bathing a doll in a toy bathtub provides an opportunity for teaching body parts.
 * Setting the table: This is a good source for language about dishes and utensils, napkins vs. bibs, etc., and also for naming people in the family by talking about who sits in which seat.
@@ -253,7 +253,6 @@ http://studydoc.ru/doc/3833021/rabot-s-det._mi-s-narushenie-sluha
 * “Simon Says”: an old game that many may remember from their childhood. The parent gives an instruction, and the child must only follow the instruction when the parent says “Simon says” to do it. Thus, the child must listen very carefully for what the parent asks.
 * Board games: In addition to the language inherent in each game, playing these games entails learning turn-taking, a skill which is preliminary and vital to conversation.
 * Playing with toys contains so much language potential that Sue Schwartz, Ph.D., has written an entire book on the subject, The New Language of Toys. She divides the book into age ranges, lists toys for each age group, and provides language samples for each toy. 
-
 
 <details>
  <summary>Джерело</summary>

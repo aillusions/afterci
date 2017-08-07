@@ -150,6 +150,42 @@
 * 
 * 
 
+### Фонетична ритміка
+
+[Розвиток тонких кінестетичних відчуттів](downloads/rozv_tonk_kinest_vidch.pdf)
+
+* О-о
+* А-а
+* У-у
+* І-і
+* Ла-да
+* Ба
+* Ка
+* Га-га
+* 
+* 
+* 
+*
+
+### Піктограми
+
+* Ла-ла
+* Бррр
+* Опа
+* Оооо
+* Уууу
+* Мяу
+* Ма (хвильк)
+* Па-па
+* Ша
+* Во
+* Ну-ну
+* Нема
+* Ам
+* Ба
+* 
+*
+
 ## УРР
 
 Розвиток слухового сприймання не мовленнєвих і мовленнєвих звучань
@@ -200,19 +236,45 @@ http://studydoc.ru/doc/3833021/rabot-s-det._mi-s-narushenie-sluha
 * "Узнай по голосу": Перед ребенком картинки с изображением домашних животных и их детенышей -коровы  и  теленка,  овцы  и  ягненка  и  т.п.  Каждое звукоподражание  взрослый  произносит  то  низким  голосом  (корова),  то высоким  (теленок).  Ребенок,  ориентируясь  на  качество  и  высоту  звука одновременно, находит соответствующую картинку (например, изображение коровы или теленка) 
 * Вибір по картинкам АМСУШІ
 
-## Найди  звучащую  игрушку(поисковый  метод,  на  ориентировку  в пространстве,  развитие  фонематического  и  физического  слуха).
+## 
 
-Спрячьте звучащую игрушку, а ребенок должен ее найти. Для начала можно просто накрыть её тряпочкой. С каждым разом игру усложняйте, прячьте игрушку дальше. 
+* Washing dishes: Water play is important because children must take off their hearing aids or cochlear implant processor while bathing or swimming. In addition to naming all the dishes and utensils, language involved in washing dishes includes hot, cold, soap, bubbles, wet, dry, towel, dripping, etc. Similarly, bathing a doll in a toy bathtub provides an opportunity for teaching body parts.
+* Setting the table: This is a good source for language about dishes and utensils, napkins vs. bibs, etc., and also for naming people in the family by talking about who sits in which seat.
+* Sorting and folding laundry: The child can learn the names of everyone in the house while sorting the laundry, including learning the possessive construction while talking about “Daddy’s shirt, Mommy’s pants,” etc. In addition, this is a wonderful chance to talk about colors, sizes, including long and short, big and little, comparisons of bigger, smallest, and so on.
+* Making beds: There is so much language that is particular only to this task, such as tucking in, sheet, blanket, quilt, mattress, head and foot of the bed, and pulling tight. This language must be learned naturally.
+* Baking cookies: While baking cookies, the parent can describe all the ingredients and actions, such as pour, mix, beat, sift, and can use adjectives such as lumpy, thick, and hot.
+* Feeding time. Simple feeding in the highchair involves making choices. Also, names of foods, dishes and utensils come into play again, as do adjectives, such as green peas, orange cheese, flat pancakes, round cookies, hard cookies, and soft bread.
+* Trips to the grocery store. While sitting in the seat of the shopping cart, the child is a captive audience. This provides an excellent opportunity to teach the names of foods, as well as descriptive words, such as long, yellow bananas, round, bumpy oranges, square, smooth boxes, etc.
 
-## поради
-1. Постоянно  разговаривайте  с  ребенком.  Комментируйте  все  свои действия.  Каждый  день,  умывая  ребенка,  одевая  его  на  прогулку  и  т.д. рассказывайте все, что вы делаете.
-2. Добивайтесь зрительного и слухового сосредоточения ребенка, когда играете  с  ним,  занимаетесь  или  просто  общаетесь.  Необходимо сосредотачивать взор ребенка на своем лице, побуждать к поиску взглядом разговаривающего с ним взрослого.
-3. Используйте  в  общении   естественные   жесты.4.  Побуждайте  ребенка  прислушиваться  к  звукам,  издаваемым различными предметами.
-5. Поддерживайте  возникающую  у  ребенка  потребность  быть «собеседником».  Не  оставляйте  без  внимания  призывы  ребенка.6. Постоянно стимулируйте речь ребенка. Добивайтесь вокализации в ответ на ваши вопросы, поручения.
-7. Связывайте  слова  (логотомы)  с  действием,  предметом.
-8. Ваша речь должна быть очень  интонирована.
-9. Слушайте музыку, пойте ребенку песни. Чаще пойте вместе с ребенком. Петь можно стоя, сидя и даже лежа! Пение очень заразительно, и когда вы поете, он телом чувствует вибрацию вашей грудной клетки и видит ваше лицо и губы.Это стимулирует ребенка произносить звуки. Не бойтесь, что вы поете как-то не так –это совсем не важно.
+## Fun games
 
+* Найди  звучащую  игрушку Спрячьте звучащую игрушку, а ребенок должен ее найти. Для начала можно просто накрыть её тряпочкой. С каждым разом игру усложняйте, прячьте игрушку дальше. 
+* Hiding games. In the early stages, the parents can hide an object somewhere in the house and tell the child where to find it, using language such as “under the pillow” or “behind the couch.” As the child grows older, the game can become more abstract with the parent providing only clues about where the object is, such as, “It’s in something that can burn.”.
+* “Simon Says”: an old game that many may remember from their childhood. The parent gives an instruction, and the child must only follow the instruction when the parent says “Simon says” to do it. Thus, the child must listen very carefully for what the parent asks.
+* Board games: In addition to the language inherent in each game, playing these games entails learning turn-taking, a skill which is preliminary and vital to conversation.
+* Playing with toys contains so much language potential that Sue Schwartz, Ph.D., has written an entire book on the subject, The New Language of Toys. She divides the book into age ranges, lists toys for each age group, and provides language samples for each toy. 
+
+
+<details>
+ <summary>Джерело</summary>
+ 
+ http://cochlearimplantonline.com/site/?page_id=636
+</details>
+
+## Experience books: 
+
+These are books created by parents that can range from crude stick figure drawings of an event in the child’s day to elaborate drawings or photographs. Polaroid photos are particularly useful for these books as the photos are immediately available before the child has forgotten about the experience.
+
+## Різні поради
+
+* Постоянно  разговаривайте  с  ребенком.  Комментируйте  все  свои действия.  Каждый  день,  умывая  ребенка,  одевая  его  на  прогулку  и  т.д. рассказывайте все, что вы делаете.
+* Добивайтесь зрительного и слухового сосредоточения ребенка, когда играете  с  ним,  занимаетесь  или  просто  общаетесь.  Необходимо сосредотачивать взор ребенка на своем лице, побуждать к поиску взглядом разговаривающего с ним взрослого.
+* Используйте  в  общении   естественные   жесты.4.  Побуждайте  ребенка  прислушиваться  к  звукам,  издаваемым различными предметами.
+* Поддерживайте  возникающую  у  ребенка  потребность  быть «собеседником».  Не  оставляйте  без  внимания  призывы  ребенка.6. Постоянно стимулируйте речь ребенка. Добивайтесь вокализации в ответ на ваши вопросы, поручения.
+* Связывайте  слова  (логотомы)  с  действием,  предметом.
+* Ваша речь должна быть очень  интонирована.
+* Слушайте музыку, пойте ребенку песни. Чаще пойте вместе с ребенком. Петь можно стоя, сидя и даже лежа! Пение очень заразительно, и когда вы поете, он телом чувствует вибрацию вашей грудной клетки и видит ваше лицо и губы.Это стимулирует ребенка произносить звуки. Не бойтесь, что вы поете как-то не так –это совсем не важно.
+* Следует  выделить  отдельный  вид  работы  с  детьми  «Фонетическая зарядка» (контрольный звук)—это одна из форм организации работы над произношением. Содержанием фонетической зарядки может быть любая сторона  устной  речи:  работа  над  звуками,  голосом,  речевым  дыханием, словесным  и  логическим  ударением,  нормами  орфоэпии,  темпом  речи. Содержание  фонетической  зарядки  должно  быть  частьюмузыкально-ритмических занятий, самостоятельной работы учащихся и индивидуальных занятий.
 
 ### Словник
 
@@ -370,41 +432,6 @@ http://studydoc.ru/doc/3833021/rabot-s-det._mi-s-narushenie-sluha
 * 
 
 
-### Фонетична ритміка
-
-[Розвиток тонких кінестетичних відчуттів](downloads/rozv_tonk_kinest_vidch.pdf)
-
-* О-о
-* А-а
-* У-у
-* І-і
-* Ла-да
-* Ба
-* Ка
-* Га-га
-* 
-* 
-* 
-*
-
-### Піктограми
-
-* Ла-ла
-* Бррр
-* Опа
-* Оооо
-* Уууу
-* Мяу
-* Ма (хвильк)
-* Па-па
-* Ша
-* Во
-* Ну-ну
-* Нема
-* Ам
-* Ба
-* 
-*
 
 ### Пісеньки
 

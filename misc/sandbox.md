@@ -333,43 +333,6 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
 * All skills are taught with an emphasis on listening – audition first!
 * One of the main premises of the Auditory-Verbal approach is that parents are their children’s primary language role model in the preschool years.
 
-The Parent as a Language Teacher
-Written By Melissa Chaikof
-
-One of the main premises of the Auditory-Verbal approach is that parents are their children’s primary language role model in the preschool years. Both formally and informally, in their daily interactions with their children, they have the greatest opportunity to impart language. While the children’s daily lesson with their parents is an integral part of this philosophy, not to be overlooked are all the language opportunities present throughout the day. Following are some suggestions for parents to incorporate language learning into their daily routines.
-
-Washing dishes: Water play is important because children must take off their hearing aids or cochlear implant processor while bathing or swimming. In addition to naming all the dishes and utensils, language involved in washing dishes includes hot, cold, soap, bubbles, wet, dry, towel, dripping, etc. Similarly, bathing a doll in a toy bathtub provides an opportunity for teaching body parts.
-
-Setting the table: This is a good source for language about dishes and utensils, napkins vs. bibs, etc., and also for naming people in the family by talking about who sits in which seat.
-
-Sorting and folding laundry: The child can learn the names of everyone in the house while sorting the laundry, including learning the possessive construction while talking about “Daddy’s shirt, Mommy’s pants,” etc. In addition, this is a wonderful chance to talk about colors, sizes, including long and short, big and little, comparisons of bigger, smallest, and so on.
-
-Making beds: There is so much language that is particular only to this task, such as tucking in, sheet, blanket, quilt, mattress, head and foot of the bed, and pulling tight. This language must be learned naturally.
-
-Baking cookies: While baking cookies, the parent can describe all the ingredients and actions, such as pour, mix, beat, sift, and can use adjectives such as lumpy, thick, and hot.
-
-Feeding time. Simple feeding in the highchair involves making choices. Also, names of foods, dishes and utensils come into play again, as do adjectives, such as green peas, orange cheese, flat pancakes, round cookies, hard cookies, and soft bread.
-
-Trips to the grocery store. While sitting in the seat of the shopping cart, the child is a captive audience. This provides an excellent opportunity to teach the names of foods, as well as descriptive words, such as long, yellow bananas, round, bumpy oranges, square, smooth boxes, etc.
-
-In addition to incorporating language learning into daily routine chores, such as suggested above, there are fun games and activities that parents can play with their children that offer even more teaching opportunities.
-
-Hiding games. In the early stages, the parents can hide an object somewhere in the house and tell the child where to find it, using language such as “under the pillow” or “behind the couch.” As the child grows older, the game can become more abstract with the parent providing only clues about where the object is, such as, “It’s in something that can burn.”.
-
-“Simon Says”: an old game that many may remember from their childhood. The parent gives an instruction, and the child must only follow the instruction when the parent says “Simon says” to do it. Thus, the child must listen very carefully for what the parent asks.
-
-Board games: In addition to the language inherent in each game, playing these games entails learning turn-taking, a skill which is preliminary and vital to conversation.
-
-Experience books: These are books created by parents that can range from crude stick figure drawings of an event in the child’s day to elaborate drawings or photographs. Polaroid photos are particularly useful for these books as the photos are immediately available before the child has forgotten about the experience.
-
-There are many more activities beyond those mentioned. In addition to daily activities, playing with toys contains so much language potential that Sue Schwartz, Ph.D., has written an entire book on the subject, The New Language of Toys. She divides the book into age ranges, lists toys for each age group, and provides language samples for each toy. Another valuable book for parents is Learning to Listen, Pat Vaughan, ed., which has become somewhat of a bible for auditory-verbal parents. In addition to some personal stories, this book contains an entire section on auditory training at home. It provides lists of household items to gather, materials to buy for lessons, and props to make. Then, sample lessons are described.
-
-Most parents today find that there are simply not enough hours in the day to accomplish all the tasks that must be done, such as cleaning the house, doing laundry, or grocery shopping, and, for many, a full day of work outside the home as well. Thus, to add to this list becoming their child’s primary language teacher is daunting. However, as evidenced by the suggestions above, if one can develop the mindset that language is everywhere, this task becomes not only feasible but also enjoyable, giving parents and their children the opportunity to share valuable time together and making learning fun for the child. Parents are always their children’s first language teachers, and they do have the necessary tools.
-<details>
- <summary>Джерело</summary>
- 
- http://cochlearimplantonline.com/site/?page_id=636
-</details>
 
 
 <details>

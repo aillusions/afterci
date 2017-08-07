@@ -220,9 +220,7 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
  different products on the shelves
  
  https://www.oticon.com/~/media/oticon%20us/main/download%20center/family%20support%20materials/professional%20all/35103%20parents%20guide.pdf
- 
- 
----
+
  
  It is vitally important that parents are involved in the habilitation of their child immediately following a cochlear implant. Much of this habilitation can be achieved through listening activities. These activities can be done during structured play sessions, or throughout the day while you are doing everyday tasks, such as shopping trips, bath-time etc. It is important to be aware of the language level of your child, and this will depend on the age of the child, their level of understanding, and their auditory abilities prior to the implant. It is vitally important to start training at the right level and not make tasks too difficult, so the child can be motivated by a high success rate during activities.
  
@@ -444,3 +442,14 @@ Most parents today find that there are simply not enough hours in the day to acc
 
 
 http://www.yavahitna.com.ua/2016/08/15/skilki-sliv-povinna-govoriti-ditina-v-2-roki/
+
+
+
+
+
+
+
+
+
+
+http://studydoc.ru/doc/3833021/rabot-s-det._mi-s-narushenie-sluha

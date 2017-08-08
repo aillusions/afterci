@@ -578,7 +578,7 @@ https://www.youtube.com/watch?v=0CAnblZ3YOk&t=17s
 
 #### Ой ходить сон коло вікон
 
-https://www.youtube.com/watch?v=bLbNqZeLdQg&t=0s
+https://www.youtube.com/watch?v=bLbNqZeLdQg&t=20s
  	
 Ой ходить сон коло вікон, <br />
 А дрімота — коло плота. <br />

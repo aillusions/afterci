@@ -467,7 +467,9 @@ These are books created by parents that can range from crude stick figure drawin
 ### Пісеньки
 
 https://www.youtube.com/watch?v=rmc7loUBI1w
+
 http://deti.e-papa.com.ua/dytyachi-pisni/5/
+
 https://gazeta.ua/articles/family/_5-ukrayinskih-koliskovih-dlya-najpriyemnishogo-snu/746940
 
 #### Ой ходить сон коло вікон
@@ -533,17 +535,17 @@ https://gazeta.ua/articles/family/_5-ukrayinskih-koliskovih-dlya-najpriyemnishog
 (А-а а-а а-а а)              | (2)
 
 
-#### Колискова
+#### Колискова "Сонько-Дрімко"
 
-Пізня вже годинка,
-Чом не спиш, дитинко?
-Вже твоя матуся
-Кличе сонька-дрімка.
+Пізня вже годинка, <br />
+Чом не спиш, дитинко? <br />
+Вже твоя матуся <br />
+Кличе сонька-дрімка. <br />
 
-Сонько-дрімко носить
-Всім, хто лиш попросить,
-В кошику лозовім
-Казочки чудові.
+Сонько-дрімко носить <br />
+Всім, хто лиш попросить, <br />
+В кошику лозовім <br />
+Казочки чудові. <br />
 
 Принесе співанку,
 Тиху колисанку.

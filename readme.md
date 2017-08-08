@@ -545,6 +545,11 @@ https://www.youtube.com/watch?v=o63bRrysuW8&feature=youtu.be&list=PL_JLCl4eYE2zP
 Зуби чистити потрібно,  <br />
 Бо не буде чим жувати. <br />
 
+Діти, правди ніде діти,  <br />
+Що про зуби треба дбати, <br />
+Зуби чистити потрібно,  <br />
+Бо не буде чим жувати. <br />
+
 #### Рученьки, ніженьки
 
 https://www.youtube.com/watch?v=0CAnblZ3YOk&t=17s

@@ -306,6 +306,7 @@ These are books created by parents that can range from crude stick figure drawin
 * Always respond and reward with a smile
 * Keep bringing your child’s attention to sounds that you can hear
 * Ling Sound Test
+* Наявність дзеркала
 
 ### Словник
 

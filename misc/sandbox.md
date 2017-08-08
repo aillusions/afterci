@@ -1,9 +1,5 @@
 
 
-
-
-Наявність дзеркала 
-
 Ling Six-Sound Test
 http://hear-me-now.org/ling-six-sound-test/
 https://blog.medel.com/all-about-the-ling-six-sound-test/
@@ -312,15 +308,11 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
  http://www.aussiedeafkids.org.au/communication-and-habilitation-for-wearers-of-cochlear-implants.html
  
  
- 
- 
- 
- 
-##  Аудіо-вербальна терапія (auditory verbal therapy, AVT)
+
+
+### Аудіо вербальна терапія (auditory verbal therapy, AVT)
 
 (Сучасна методика слухомовної реабілітації)
-
----
 
 
 [What is Auditory-Verbal Therapy](downloads/what-is-auditory-verbal-therapy-cochlear-implant.pdf)
@@ -364,8 +356,6 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
  <summary>В розробці ..</summary>
   
  [Концепції](misc/ideas.md)
- 
- [Загальний опис методик](methods/method.md)
  
  [Прродні жести](misc/sign_lang.md)
  

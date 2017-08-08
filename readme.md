@@ -553,7 +553,7 @@ https://www.youtube.com/watch?v=bLbNqZeLdQg&t=0s
 
 #### Колискова "Котику сіренький"
 
-https://www.youtube.com/watch?v=-D9PFdiNDfo
+https://www.youtube.com/watch?v=-D9PFdiNDfo&t=9
 
 Котику Сіренький Котику Біленький <br />
 Котку Волохатий не ходи по Хаті <br />

@@ -469,7 +469,7 @@ These are books created by parents that can range from crude stick figure drawin
 
 #### Колискова "Сонько-Дрімко"
 
-https://www.youtube.com/watch?v=GuKpioOroRM
+https://www.youtube.com/watch?v=GuKpioOroRM&t=16
 
 Пізня вже годинка, <br />
 Чом не спиш, дитинко? <br />

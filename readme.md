@@ -227,7 +227,14 @@ When the child can react to the difference between sound and no sound we work th
 
 ## Демонстрація по малюнку
 
-
+* Є малюнок (картка, бажано не книжка що б дитина не почала листати) - оживляємо його дією, жестами і лепетними словами: курочка ряба або летить літачок
+* Лото - є розділена картка - наприклад зайчик їсть, зайчик спить.. і такі ж картки розрізані - дитина накладає - потім дає на голос (дай де зайчик мий-мий)
+* Є картина з сценою (природа птичка машина) - дитині дають такі-ж вирізаня зображення-і вона накладає на сцену - потім видає по звуку
+* Є картина з сценою - те ж але - прикладаємо реальні предмети
+* Є пуста сцена - накладаємо зображення - де що має бути
+* Намальована людина яка виконує якусь дію - розводить руки або що - дитина робить те ж саме
+* Живі картинки - зображення що рухаються
+* Картки ПЕКС
 
 ## Використання побутових ситуацій (everyday tasks)
 
@@ -239,7 +246,6 @@ When the child can react to the difference between sound and no sound we work th
 * Feeding time. Simple feeding in the highchair involves making choices. Also, names of foods, dishes and utensils come into play again, as do adjectives, such as green peas, orange cheese, flat pancakes, round cookies, hard cookies, and soft bread.
 * Trips to the grocery store. While sitting in the seat of the shopping cart, the child is a captive audience. This provides an excellent opportunity to teach the names of foods, as well as descriptive words, such as long, yellow bananas, round, bumpy oranges, square, smooth boxes, etc.
 * bath-time
-
 
 ## Fun games
 

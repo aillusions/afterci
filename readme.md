@@ -170,6 +170,7 @@ When the child can react to the difference between sound and no sound we work th
 * Гоняти ватну кульку по столу
 * Плювати кісточку
 * Дуть на порізаний листочок
+* Вдихати носом - видихати ротом
 
 ## Дрібна і загальна моторика
 
@@ -189,7 +190,7 @@ When the child can react to the difference between sound and no sound we work th
 * Обводити по трафарету або предмет
 * Обвести по контуру 
 * Зафарбувати по контуру 
-* Вдихати носом - видихати ротом
+* Розмотувати цукерки
 
 ## Вибір з кількох..
 

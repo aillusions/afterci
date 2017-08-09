@@ -10,7 +10,6 @@
 * Ритми
 * УРР на не-мовленєві і мовленнєві звучання
 * Голосно-тихо, один-два-багато, непреривний і преривний звук (ааааа а-а-а-а), швидко-повільно
-* Трошки-багато, Велике-мале
 * Вибір з 2-х, 3-х
 * АМСУШИ
 * Мовне середовище (побутова мова)
@@ -29,6 +28,7 @@
 * Пісні - та віршики + крижки на укр
 * Колір - форма
 * Співвідношення об'ємних і площиннх фігур
+* Логіко-математична компетентність: Трошки-багато, Велике-мале
 
 
 ### Фонетична ритміка
@@ -230,6 +230,14 @@ When the child can react to the difference between sound and no sound we work th
 * Feeding time. Simple feeding in the highchair involves making choices. Also, names of foods, dishes and utensils come into play again, as do adjectives, such as green peas, orange cheese, flat pancakes, round cookies, hard cookies, and soft bread.
 * Trips to the grocery store. While sitting in the seat of the shopping cart, the child is a captive audience. This provides an excellent opportunity to teach the names of foods, as well as descriptive words, such as long, yellow bananas, round, bumpy oranges, square, smooth boxes, etc.
 * bath-time
+
+## Логіко-математична компетентність: Трошки-багато, Велике-мале...
+
+* Два ведмеді або два мяча (великий і малий) - один каже голосно - інший тихо. Кажемо дай маленький оп-оп (тихо) - дитина дає
+* Те-ж саме - тільки дитина повинна повторити (якщо малий мяч - то тихо)
+* На дворі - показуємо велика або мала машина - показуємо жестами (велике - робимо коло руками, мале - двома близько розміщеними долонями або пальцями)
+* Є тарілка з крупою, беремо дві ложки велику і малу або рука і ложка: беремо и кладемо на стіл трошки і батаго
+* Те саме з піском на дворі
 
 ## Fun games
 

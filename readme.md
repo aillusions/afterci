@@ -147,6 +147,24 @@
 * 
 * 
 
+## УДР
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
 ### Фонетична ритміка
 
 [Розвиток тонких кінестетичних відчуттів](downloads/rozv_tonk_kinest_vidch.pdf)
@@ -219,14 +237,6 @@ Firstly, a child just needs to hear and react to sounds. Can they tell the diffe
 * Стукати в барабан, по ксилофону, дзвіночком, по коробці, по чашці
 * Виговорювати звуки: А-М-С-У-Ш-І, Оп, Ла-Ла, Па-Па та ін.
 
-When the child can react to the difference between sound and no sound we work through a number of steps:
-* Discrimination between long and short sounds
-* Discrimination between 2 different sounds. If working on speech sounds, discriminating vowel sounds can be difficult so we must use sounds that are not only different, but also have different formant frequencies
-* Differentiating between one and two syllable words/nonsense words
-* Discriminating between words containing different vowels (e.g pot and pet)
-* Discriminating between words with different initial or final sounds (e.g. day/pay or hearse/herd
-* Discriminating words in Closed Set word lists and Open Set word lists. Closed set word lists may be a smaller set of words that are familiar to the listener and initially quite different in sound. Open set word lists introduce new words and might be more complicated because some words may be in the same category or have similar sounds.
-   
 При цьому:
 * Використовувати звуки різної інстенсивності
 * Використовувати звуки так що було видно джерело і приховано
@@ -237,6 +247,28 @@ When the child can react to the difference between sound and no sound we work th
 
 http://studydoc.ru/doc/3833021/rabot-s-det._mi-s-narushenie-sluha
 
+## Довгий-короткий, голосно-тихо-немає, повільно-швидко, неприривно-приривчасто
+
+* Б'ємо в барабан, дитина крокує - змінюючи інтенсивність ударів доводимо до бігу 
+* Подаємо команди (напр Па-Па) - дитина б'є в барабан - мінюючи інтенсивність
+* Подаємо приривні або не приривні звуки (Ааааааа, А-а-а-а-а) - дитина малює непреривниу лінію або ставить крапки (піктограма?)
+* На трьох картках зображено: великий барабан, малий або нема нічого (хрестик) - дитина б'є в барабан з відповідною гучністю
+* На трьох картках зображено: великий барабан, малий або нема нічого (хрестик) - дорослий б'є в барабан - дитина перевертає або дає вам картку
+* На трьох картках зображено: великий барабан, малий або нема нічого (хрестик) - даємо дитині іграшки - дитина розкладає іграшки за гучністю звучання 
+* Довгий-короткий шнурок, або довга коротка стрілка - над нею зображені маленьке або велике О - дорослий показі стрілку - дитина говорить або довго - або коротко
+* 
+
+
+
+When the child can react to the difference between sound and no sound we work through a number of steps:
+* Discrimination between long and short sounds
+* Discrimination between 2 different sounds. If working on speech sounds, discriminating vowel sounds can be difficult so we must use sounds that are not only different, but also have different formant frequencies
+* Differentiating between one and two syllable words/nonsense words
+* Discriminating between words containing different vowels (e.g pot and pet)
+* Discriminating between words with different initial or final sounds (e.g. day/pay or hearse/herd
+* Discriminating words in Closed Set word lists and Open Set word lists. Closed set word lists may be a smaller set of words that are familiar to the listener and initially quite different in sound. Open set word lists introduce new words and might be more complicated because some words may be in the same category or have similar sounds.
+   
+   
 ## Вибір з кількох..
 
 * Положите  перед  ребенком картинки.  Закройте  губы  (чтобы он воспринимал все на слух) и предложите ему догадаться, что Вы загадали. 

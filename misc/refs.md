@@ -35,3 +35,8 @@ http://www.cochlear.com/wps/wcm/connect/in/home/support/rehabilitation-resources
 http://www.medel.com/us/bridge-downloads
 
 https://www.facebook.com/Parents-of-Kids-with-Cochlear-Implants-319745916090/
+
+
+Розвиток фонематичного сприймання
+
+http://www.nvk24.com.ua/rozvitok-fonematichnogo-sprijmannya-v-ditej-doshkilnogo-viku/

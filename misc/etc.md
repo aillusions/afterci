@@ -1,5 +1,6 @@
 ## Різне
 
+* Мовне середовище (побутова мова)
 * Постоянно  разговаривайте  с  ребенком.  Комментируйте  все  свои действия.  Каждый  день,  умывая  ребенка,  одевая  его  на  прогулку  и  т.д. рассказывайте все, что вы делаете.
 * It is important to have a joint focus, letting the child explore and control their environment, but you can facilitate language development by sitting with the child and talking about what they are doing. As an adult with a hearing impaired baby, try and respond as often as possible, and try to follow your babies focus (as you would with a hearing baby or young child). Keep bringing your child’s attention to sounds that you can hear.
 * Добивайтесь зрительного и слухового сосредоточения ребенка, когда играете  с  ним,  занимаетесь  или  просто  общаетесь.  Необходимо сосредотачивать взор ребенка на своем лице, побуждать к поиску взглядом разговаривающего с ним взрослого.

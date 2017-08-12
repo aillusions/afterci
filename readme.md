@@ -486,16 +486,6 @@ http://magdakirshner.webnode.com.ua/news/nauka-chitannya/
   * Ляля йшла - перечепилася - і плаче
   * Сценки: ля-ля спить, ля-ля йде, ля-ля їсть
 
-<details>
- <summary>Джерело</summary>
- 
- http://cochlearimplantonline.com/site/?page_id=636
-</details>
-
-## Experience books: 
-
-These are books created by parents that can range from crude stick figure drawings of an event in the child’s day to elaborate drawings or photographs. Polaroid photos are particularly useful for these books as the photos are immediately available before the child has forgotten about the experience.
-
 ## Різні поради
 
 * Постоянно  разговаривайте  с  ребенком.  Комментируйте  все  свои действия.  Каждый  день,  умывая  ребенка,  одевая  его  на  прогулку  и  т.д. рассказывайте все, что вы делаете.
@@ -523,6 +513,8 @@ These are books created by parents that can range from crude stick figure drawin
 * Keep bringing your child’s attention to sounds that you can hear
 * Ling Sound Test
 * Наявність дзеркала
+* Experience books: These are books created by parents that can range from crude stick figure drawings of an event in the child’s day to elaborate drawings or photographs. Polaroid photos are particularly useful for these books as the photos are immediately available before the child has forgotten about the experience.
+* Словник: бажано вести таблицю для вибору з кулькох - що б було зрозуміло що дитина розуміє краще (відмічаємо скільки помилок і скільки правильних)
 
 ### Словник
 
@@ -531,3 +523,7 @@ These are books created by parents that can range from crude stick figure drawin
 ### Пісеньки
 
 [Пісні](misc/song.md)
+
+### Стадії розвитку
+
+[Пісні](misc/dev.md)

@@ -169,7 +169,7 @@
 * Хованка: дорослі ховаються і стукають в барабан, дитина шукає на звук
 * Ховаємо звукову іграшку - дитина має знайти (спочатку показуємо - слухай і шукаємо)
 
-## голосно-тихо-немає
+## Голосно-тихо-немає
 
 * На трьох картках зображено: великий барабан, малий або нема нічого (хрестик) - дитина б'є в барабан з відповідною гучністю
 * На трьох картках зображено: великий барабан, малий або нема нічого (хрестик) - дорослий б'є в барабан - дитина перевертає або дає вам картку
@@ -178,23 +178,19 @@
 * ”Знайди заховану іграшку”. Логопед закриває очі дитині, пропонуючи знайти заховану іграшку, орієнтуючись на силу ударів по столу (барабані, бубені, плесканні в долоні). Якщо малюк підходить близько до місця, де захована іграшка, то звучання ударів буде голоснішим, а якщо віддаляється – тихішим. Ведучим може бути будь-хто, як педагог, так і дитина.
 * „Не розбуди Оленку” дорослий заколисує ляльку, вкладає її в ліжко. Дорослий тихим голосом звертається до дитини із проханням скласти іграшки та говорити тихенько, щоб не розбудити Оленку.
 
-## Довгий-короткий, повільно-швидко, неприривно-приривчасто
+## Довгий-короткий
 
-When the child can react to the difference between sound and no sound we work through a number of steps:
-* Discrimination between long and short sounds
-* Discrimination between 2 different sounds. If working on speech sounds, discriminating vowel sounds can be difficult so we must use sounds that are not only different, but also have different formant frequencies
-* Differentiating between one and two syllable words/nonsense words
-* Discriminating between words containing different vowels (e.g pot and pet)
-* Discriminating between words with different initial or final sounds (e.g. day/pay or hearse/herd
-* Discriminating words in Closed Set word lists and Open Set word lists. Closed set word lists may be a smaller set of words that are familiar to the listener and initially quite different in sound. Open set word lists introduce new words and might be more complicated because some words may be in the same category or have similar sounds.
-  
-* Б'ємо в барабан, дитина крокує - змінюючи інтенсивність ударів доводимо до бігу 
-* Подаємо команди (напр Па-Па) - дитина б'є в барабан - мінюючи інтенсивність
+* Б'ємо в барабан, дитина крокує - змінюючи інтенсивність ударів доводимо до бігу, потім різко зупиняємо
+
+## Часто-рідко
+
+## Неприривно-приривчасто
+
+
+* Подаємо команди (напр Па-Па) - дитина б'є в барабан - змінюючи інтенсивність
 * Подаємо приривні або не приривні звуки (Ааааааа, А-а-а-а-а) - дитина малює непреривниу лінію або ставить крапки (піктограма?)
 * Довгий-короткий шнурок, або довга коротка стрілка - над нею зображені маленьке або велике О - дорослий показі стрілку - дитина говорить або довго - або коротко 
 * Корабль рухається швидко коли слова вимовляються швидко і повільно - коли повільно (чух-чух)
-
-
 
 ## Ритми
 

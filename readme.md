@@ -377,8 +377,6 @@ When the child can react to the difference between sound and no sound we work th
 * Зображення через піктограми, наприклад ля-ля. З початку - просто ля-ля, потім о-ля-ля, потім ля-ля-бр-бр
 * Вживаємо дай-ам, пока-ма-ма
 
-
-
 ## Використання побутових ситуацій (everyday tasks)
 
 * Washing dishes: Water play is important because children must take off their hearing aids or cochlear implant processor while bathing or swimming. In addition to naming all the dishes and utensils, language involved in washing dishes includes hot, cold, soap, bubbles, wet, dry, towel, dripping, etc. Similarly, bathing a doll in a toy bathtub provides an opportunity for teaching body parts.
@@ -420,36 +418,6 @@ When the child can react to the difference between sound and no sound we work th
   * Ляля йшла - перечепилася - і плаче
   * Сценки: ля-ля спить, ля-ля йде, ля-ля їсть
 
-## Різні поради
-
-* Постоянно  разговаривайте  с  ребенком.  Комментируйте  все  свои действия.  Каждый  день,  умывая  ребенка,  одевая  его  на  прогулку  и  т.д. рассказывайте все, что вы делаете.
-* It is important to have a joint focus, letting the child explore and control their environment, but you can facilitate language development by sitting with the child and talking about what they are doing. As an adult with a hearing impaired baby, try and respond as often as possible, and try to follow your babies focus (as you would with a hearing baby or young child). Keep bringing your child’s attention to sounds that you can hear.
-* Добивайтесь зрительного и слухового сосредоточения ребенка, когда играете  с  ним,  занимаетесь  или  просто  общаетесь.  Необходимо сосредотачивать взор ребенка на своем лице, побуждать к поиску взглядом разговаривающего с ним взрослого.
-* Используйте  в  общении   естественные   жесты.4.  Побуждайте  ребенка  прислушиваться  к  звукам,  издаваемым различными предметами.
-* Поддерживайте  возникающую  у  ребенка  потребность  быть «собеседником».  Не  оставляйте  без  внимания  призывы  ребенка.6. Постоянно стимулируйте речь ребенка. Добивайтесь вокализации в ответ на ваши вопросы, поручения.
-* Связывайте  слова  (логотомы)  с  действием,  предметом.
-* Ваша речь должна быть очень  интонирована.
-* Слушайте музыку, пойте ребенку песни. Чаще пойте вместе с ребенком. Петь можно стоя, сидя и даже лежа! Пение очень заразительно, и когда вы поете, он телом чувствует вибрацию вашей грудной клетки и видит ваше лицо и губы.Это стимулирует ребенка произносить звуки. Не бойтесь, что вы поете как-то не так –это совсем не важно.
-* Следует  выделить  отдельный  вид  работы  с  детьми  «Фонетическая зарядка» (контрольный звук)—это одна из форм организации работы над произношением. Содержанием фонетической зарядки может быть любая сторона  устной  речи:  работа  над  звуками,  голосом,  речевым  дыханием, словесным  и  логическим  ударением,  нормами  орфоэпии,  темпом  речи. Содержание  фонетической  зарядки  должно  быть  частьюмузыкально-ритмических занятий, самостоятельной работы учащихся и индивидуальных занятий.
-* These areas of communication describe learning the use of language in context, turn taking, attention getting, initiating, responding, repairing, topic maintenance, shared knowledge and inference, facial expression, eye contact, proximity and touch. These are all skills that most of us learn easily in the first few years of life, but they may not evolve naturally for children with hearing impairment. The important point here is, don’t let the deaf child be a passive participant, we want them to learn to turn-take, respond and share their thoughts and feelings. Videoing the hearing impaired individual interacting is a good way to highlight certain skills to them http://www.aussiedeafkids.org.au/communication-and-habilitation-for-wearers-of-cochlear-implants.html
-* Always be on the implanted side of the person when you talk to them
-* Think about the environment - lighting, clothing, background noise etc
-* Use facial expression and gesture to add meaning
-* When carrying out listening activities try not to let the child read your lips and refrain from signing or gesture
-* Repeat and rephrase your communication if not understood
-* Are you close enough to the child?
-* Request confirmation from the hearing impaired individual
-* Comment on what the child is doing or looking at, have a joint focus
-* Do not over articulate, but do not mumble either
-* Think about the volume and rate of your own speech
-* Set the context to help the hearing impaired person understand
-* Always respond and reward with a smile
-* Keep bringing your child’s attention to sounds that you can hear
-* Ling Sound Test
-* Наявність дзеркала
-* Experience books: These are books created by parents that can range from crude stick figure drawings of an event in the child’s day to elaborate drawings or photographs. Polaroid photos are particularly useful for these books as the photos are immediately available before the child has forgotten about the experience.
-* Словник: бажано вести таблицю для вибору з кулькох - що б було зрозуміло що дитина розуміє краще (відмічаємо скільки помилок і скільки правильних)
-
 ### Словник
 
 [Словник](misc/vocab.md)
@@ -465,3 +433,7 @@ When the child can react to the difference between sound and no sound we work th
 ### Стадії розвитку
 
 [Стадії](misc/dev.md)
+
+### Різне
+
+[Різне](misc/etc.md)

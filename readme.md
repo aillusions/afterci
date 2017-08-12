@@ -518,12 +518,12 @@ http://magdakirshner.webnode.com.ua/news/nauka-chitannya/
 
 ### Словник
 
-[Пісні](misc/vocab.md)
+[Словник](misc/vocab.md)
 
-### Пісеньки
+### Пісеньки та вірші
 
 [Пісні](misc/song.md)
 
 ### Стадії розвитку
 
-[Пісні](misc/dev.md)
+[Стадії](misc/dev.md)

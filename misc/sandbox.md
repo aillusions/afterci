@@ -484,8 +484,6 @@ Identification by materials: cloth toys, wooden toys, plastic toys, etc.
   
  [Концепції](misc/ideas.md)
  
- [Прродні жести](misc/sign_lang.md)
- 
  [Словник](misc/vocab.md)
  
  [Завантаження](misc/downloads.md)

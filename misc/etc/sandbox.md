@@ -530,3 +530,6 @@ http://magdakirshner.webnode.com.ua/news/nauka-chitannya/
   * Полисенсорный метод.
   * Метод моторного восприятия.
   * Целостный метод развития слуха и речи
+
+
+https://www.ukrinform.ua/rubric-culture/1995422-najkrasi-ukrainski-multfilmi-vsih-casiv.html

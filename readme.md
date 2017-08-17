@@ -340,6 +340,8 @@
 * Один-Два
 * Два-Один
 * Та-та-то - тато їде на авто
+* Для спряженого промовляння можна використати ігровий прийом „Ладусі” (вчитель-логопед, промовляючи склад, злегка штовхає вертикально розташовані долоньки дитини)
+* „Клоун” (дитина і вчитель-логопед стоять один навпроти одного; вчитель-логопед бере дитину за ручки, дитина стає на ноги вчителя-логопеда; вони в такт складу переступають з ноги на ногу)
 
 ---
 
@@ -367,7 +369,7 @@
 
 ## <a name="Драматизиція"></a> Драматизиція (сценки)
 
-Під драматизацією розуміють передачу подій, розказаних у прозовому чи віршованому творі, у драматичній формі, тобто в особах. В іграх-драматизація дитина, виконуючи роль як «артиста», самостійно створює образ за допомогою комплексу засобів вербальної і невербальної виразності. Видами драматизації є: ігри-імітації образів тварин, людей, літературних персонажів; рольові діалоги на основі тексту; інсценування творів; постановки вистав за одним чи кількома творами; ігри-імпровізації з розігрування сюжету (або кількох сюжетів) без попередньої підготовки.
+Під драматизацією розуміють передачу подій у драматичній формі, тобто в особах. Дитина створює образ за допомогою вербальної і невербальної виразності. Видами драматизації є: ігри-імітації образів тварин, людей, літературних персонажів; рольові діалоги на основі тексту; інсценування творів; ігри-імпровізації з розігрування сюжету.
 
 * Птичка літає (папуга) - птичка сідає біля дорослого, дорослий гладить птаха і каже - це пі-пі-пі, пі-пі-пі хороший. Потім птаха ще літає і сідає на голову. Дорослий каже: киш-киш пі-пі-пі. Потім птаха клює дорослого. Дорослий: Ой-ой, боляче, ну-ну-ну.., махає пальцем.
 * Змія
@@ -412,41 +414,14 @@
 * Я сама..
 * Беремо фотографії дорослих - і показуємо не вірно. Наприклад підносимо фото мами до папи і кажемо - це мама? ні...
 
-## Використання побутових ситуацій (everyday tasks)
-
-* Washing dishes: Water play is important because children must take off their hearing aids or cochlear implant processor while bathing or swimming. In addition to naming all the dishes and utensils, language involved in washing dishes includes hot, cold, soap, bubbles, wet, dry, towel, dripping, etc. Similarly, bathing a doll in a toy bathtub provides an opportunity for teaching body parts.
-* Setting the table: This is a good source for language about dishes and utensils, napkins vs. bibs, etc., and also for naming people in the family by talking about who sits in which seat.
-* Sorting and folding laundry: The child can learn the names of everyone in the house while sorting the laundry, including learning the possessive construction while talking about “Daddy’s shirt, Mommy’s pants,” etc. In addition, this is a wonderful chance to talk about colors, sizes, including long and short, big and little, comparisons of bigger, smallest, and so on.
-* Making beds: There is so much language that is particular only to this task, such as tucking in, sheet, blanket, quilt, mattress, head and foot of the bed, and pulling tight. This language must be learned naturally.
-* Baking cookies: While baking cookies, the parent can describe all the ingredients and actions, such as pour, mix, beat, sift, and can use adjectives such as lumpy, thick, and hot.
-* Feeding time. Simple feeding in the highchair involves making choices. Also, names of foods, dishes and utensils come into play again, as do adjectives, such as green peas, orange cheese, flat pancakes, round cookies, hard cookies, and soft bread.
-* Trips to the grocery store. While sitting in the seat of the shopping cart, the child is a captive audience. This provides an excellent opportunity to teach the names of foods, as well as descriptive words, such as long, yellow bananas, round, bumpy oranges, square, smooth boxes, etc.
-* bath-time
-* Дається сумка з речами членів сім'ї - дитина кожному дає його річ (наприклад окуляри)
-* Члени сімї сідають за стіл - дитині даються фотографії - вона повидда роздати кожному його фотографію
-* Вживати більше запитань хто це, що це - перший час відповідаємо самі
-* Звертатись і називатись по іменам - мама, папа Таня..
-* Самообслуговування: горщик, мити руки, обуватись, ложка, одягатись
-* Є зображення того чим вона користується (молоко, ковбаса, хліб) - показуємо дитині і запитуємо - де? Ідемо з дитиною і шукаємо.
-* Використання наочності добре/погано: є зображення сонечка що посміхаєтья і сумного. На протязі дня демонструємо - що вона зробили добре (хвалимо, часто) і що зробила погано (рідко)
-
 ## Уявлення про навколишній світ
 
 * Хто що їсть: є тварини (собака, мавпа) - хто їсть банан і т.д. (картинка або предмет)
+* Частини тіла: очі, ніс, рот: малюємо зображення очей - і запитуємо да у Тані очі .. ?
 
 ## Загальна память
 
 * Розкладати три предмети - дитина подивилася потім відвернулась - дорослий щось змінив - дитина повертається і розповідає що змінилось (чого нема, що не на своєму місці)
-
-## Fun games
-
-* Найди  звучащую  игрушку Спрячьте звучащую игрушку, а ребенок должен ее найти. Для начала можно просто накрыть её тряпочкой. С каждым разом игру усложняйте, прячьте игрушку дальше. 
-* Hiding games. In the early stages, the parents can hide an object somewhere in the house and tell the child where to find it, using language such as “under the pillow” or “behind the couch.” As the child grows older, the game can become more abstract with the parent providing only clues about where the object is, such as, “It’s in something that can burn.”.
-* “Simon Says”: an old game that many may remember from their childhood. The parent gives an instruction, and the child must only follow the instruction when the parent says “Simon says” to do it. Thus, the child must listen very carefully for what the parent asks.
-* Board games: In addition to the language inherent in each game, playing these games entails learning turn-taking, a skill which is preliminary and vital to conversation.
-* Playing with toys contains so much language potential that Sue Schwartz, Ph.D., has written an entire book on the subject, The New Language of Toys. She divides the book into age ranges, lists toys for each age group, and provides language samples for each toy. 
-* Для спряженого промовляння можна використати ігровий прийом „Ладусі” (вчитель-логопед, промовляючи склад, злегка штовхає вертикально розташовані долоньки дитини) 
-* „Клоун” (дитина і вчитель-логопед стоять один навпроти одного; вчитель-логопед бере дитину за ручки, дитина стає на ноги вчителя-логопеда; вони в такт складу переступають з ноги на ногу)
 
 ## Колір
 

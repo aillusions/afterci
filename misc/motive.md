@@ -1,4 +1,12 @@
-# Communicative Temptations
+# Communicative Temptations (Gentle  sabotage)
+
+---
+
+https://www.youtube.com/watch?v=XSAxjq_6mQA
+https://www.youtube.com/watch?v=-1426nJE87Y
+https://www.youtube.com/watch?v=BdzlTyknaH8
+
+---
 
 When trying to help your child to actively participate in communication, there has to be:
 * a need
@@ -43,6 +51,38 @@ Cool communication temptations for REQUESTING– that we used with a young man, 
 * Temptation-Turn on the heat in the car (we still live in Florida, thanks Gwen (a mom) for this great idea). Language Target-progressed from ‘cool to please put on the air conditioner or else I may faint’
 * Temptation-  sit in the chair next to his mom after a session and he learned this usually meant we would have a long conversation with mom  (he liked to leave once finished,  he came to see us us after a full day of school)   Language Target- progressed from ‘hurry’  to ‘please mom, I want to leave right now’.
 * The underlying assumption to all of Wayne’s communication temptations is that the learner likes or is motivated by the temptation. Without the motivation, there is no enticement/temptation.
+
+---
+
+Wondering how to get your child talking? We speech-language therapists have lots of tricks in our pockets to do just that. One of our very favorites involves enticing children to talk by creating what we call communication temptations (Wetherby and Prizant, 1989).This little strategy can be used to help a late-talker start talking, to help a toddler begin using two-word phrases, or to increase the chances that a young child with autism will begin communicating.
+
+Communication temptations are pretty much just what they sound like: we set up the environment to tempt children to communicate with us. The rationale for using them is also a pretty simple one: a child is much more likely to communicate if he has a reason for doing so!
+
+Setting up communication temptations is easy and there are lots of ways to do so. Wetherby and Prizant (1989), who formalized the term, were pretty creative in their list of examples. They suggested things such as:
+Offering your child something to eat you know he dislikes,
+Putting a toy in an opaque bag and shaking it to get the child's interest,
+Putting your child's hand in something sticky or gooey such as pudding, and
+Waving bye-bye and saying "bye" as you put toys in a box three times, then pausing right before you put away the next toy.
+Each of these ideas has one thing in common- the environment is set up so that a child is tempted to communicate about something ("no, I don't want that!" "what is that?" "yuck" or "bye!"). Another form of communication temptation involves enticing a child to request. This is a great place to start for any child, but it's especially good for kids with autism, because requesting is often the easiest form of communication for these children at first.
+
+The steps to this type of communication temptation are as follows:
+Find an activity or an object that your child really enjoys.  Look for an activity that is easily stopped and started (e.g., bubbles or a swing) or an object that has multiple parts that you can hand to your child (e.g., crackers that he loves to eat, cars for a car track).
+Arrange the environment so that you create an obstacle to getting that object, but so that your child can see the object. For example, put your child's favorite crackers up on a high shelf. Or, put the cars in see-through container he can't open.
+Start the activity, have a bit of fun and then stop (put the lid on the bubbles or pull him up in the swing but don't let him go) or give him one item (e.g., give him one cracker or one car).
+Wait! Many parents forget this part, but it's an important one. Give your child a chance to communicate first.  Ideally, we want him to communicate without us helping him (we want him to initiate the communication), so always wait first. See what he does. Look expectantly at him, like you are waiting for him to do something (which, of course, you are!)
+When he communicates with you (either verbally or nonverbally):
+Give him what he wants and cheer him on--especially if it's the first time he's used that particular word or two-word phrase, or
+Build on his communication just a bit to help him move into the next stage of speech and language development.
+What you actually do for step number five depends completely on your child and his current level of communication.
+If your child isn't yet using words, wait until he does something--anything-- to indicate that he wants more (e.g., moves his body in anticipation, points, reaches); when he does (and he will!), say the word for what he wants, wait just a few moments more, and give it to him
+If your child vocalizes to indicate he wants more but doesn't actually say the word, say the word for him, wait just a few more seconds, and give him what he wants
+If your child imitates the word, or even part of the word,  give him what he wants and cheer him on!
+If your child always imitates your words, but doesn't say them on his own, try waiting progressively longer before you say the word for what he wants; wait for one second and then say the word, then (the next time), wait for two seconds before saying the word, then (the next time, wait for three seconds before saying the word....and so on. If he gets frustrated, go back to waiting a shorter amount of time and build up again.
+If your child uses one word to request more of the item, use expansion to put his word into a two-word phrase for him (your child: swing! you: "more swing!"), wait for just a few more moments, and then give him what he requested
+If your child uses one word, you might also want to use a choice that involves two different two-word phrases (your child: cracker!; you: "big cracker or little cracker?") and encourage him to use the two-word phrase to make a choice
+If your child uses a longer phrase, but makes an error, you can correct his error by conversationally repeating what he said (your child: "wing!" you: "sssssswing!") and encourage him to imitate you accurately.
+You might also think about using communication temptations to teach your child to use baby signs or pictures to communicate.
+No matter what your child's level, communication temptations are often a very successful way to create opportunities for your child to advance her communication skills. Tempt away!
 
 ---
 

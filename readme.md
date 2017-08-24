@@ -453,6 +453,10 @@
 
 [Словник](misc/vocab.md)
 
+## Communicative Temptations
+
+[Communicative Temptations](misc/motive.md)
+
 ## Таблиці
 
 [Таблиці](misc/tables.md)

@@ -4,6 +4,10 @@ When trying to help your child to actively participate in communication, there h
 * an opportunity
 * and a reward for efforts.
 
+Communicative Temptations are a way to make sure that these three things happen.
+
+One of the most important things that we can do to assist in a child’s development of communication, is to not anticipate his or her needs/wants. By not anticipating, you give your child an opportunity to show what s/he needs/wants.
+
 
 Organize the environment to facilitate communication, by using communicative temptations, sabotage, reinforcement of new vocabulary, and experiences - especially with toddlers.
 

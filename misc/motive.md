@@ -86,6 +86,26 @@ No matter what your child's level, communication temptations are often a very su
 
 ---
 
+* Eat a food that the the child likes in front of them without offering any to him or her.
+* Start a wind-up toy, let it run down, then hand it to the child.
+* Hand the child several blocks, one by one, to drop in a can, then give the child a small toy to drop in.
+* Start a familiar game, play it until the child expresses interest, then wait. Look at the child and give them a prompt (What do you want?).
+* Open a bottle of bubbles, blow some with the wand, then close the bottle tightly and hand it to the child.
+* Blow up a balloon and then let the air out. Hand the deflated balloon to the child.
+* Put a food the child does not like near the child's mouth.
+* Put a favorite toy or food in a clear container lid on it that the child cannot open. Hand the child the container and wait.
+* Take the child's hand and put it in a cold, wet, or sticky substance such as pudding or water.
+* Roll a ball to the child. After taking many turns rolling the ball back and forth, replace the ball with a car or other toy with wheels.
+* Put a toy that makes noise in a clear plastic bag. Shake the bag and hold it up to the child.
+* Bring the child a noew toy, or initiate a silly or unusual event (wear a bag on your head). Wait for the child to do something. When he or she does, build off of what they say ("I have something silly on my head!")
+* Pay less attention than usual to the child; back away or turn your back during a game you are playing. Wait for the child to try to get your attention.
+* Let the child explore the room for a few minutes. Wait for the child to direct your attention to an object he or she becomes interested in.
+* Turn on some fast or fun music or a video with noise or talking on it, then turn it off. Wait for the child to signal for you to turn it on.
+
+http://www.home-speech-home.com/communication-temptations.html
+
+---
+
 Organize the environment to facilitate communication, by using communicative temptations, sabotage, reinforcement of new vocabulary, and experiences - especially with toddlers.
 
 Augmentative and Alternative Communication (AAC)

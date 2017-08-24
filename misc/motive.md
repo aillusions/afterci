@@ -1,5 +1,14 @@
 # Communicative Temptations (Gentle  sabotage)
 
+
+Parallel and Self Talk
+Using Expansions and Extensions
+Commenting and Asking Questions
+Modeling and Asking Questions
+Setting up The Environment for Communication
+
+http://www.playingwithwords365.com/2011/11/strategies-to-help-your-child-talk-parallel-and-self-talk/
+
 ---
 
 https://www.youtube.com/watch?v=XSAxjq_6mQA

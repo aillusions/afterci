@@ -1,3 +1,4 @@
+# Communicative Temptations
 
 When trying to help your child to actively participate in communication, there has to be:
 * a need
@@ -5,9 +6,27 @@ When trying to help your child to actively participate in communication, there h
 * and a reward for efforts.
 
 Communicative Temptations are a way to make sure that these three things happen.
-
 One of the most important things that we can do to assist in a child’s development of communication, is to not anticipate his or her needs/wants. By not anticipating, you give your child an opportunity to show what s/he needs/wants.
+* Eat a desired food item in front of your child without offering any to him or her.
+* Activate a windup toy,let it deactivate and hand it to your child.
+* Give your child four blocks to drop in a box one at a time (or use some other action that your child will repeat, such a stacking the blocks or dropping the blocks on the floor), then immediately give your child a small animal figure to drop in the box.
+* Look through a few books with your child.
+* Initiate a familiar and an unfamiliar social game with your child until s/he expresses pleasure, then stop the game and wait.
+* Open a jar of bubbles, blow bubbles,then close the jar tightly. Hand the closed jar to your child.
+* Blow up a balloon and slowly deflate it. Hand the deflated balloon to your child or hold the deflated balloon to your mouth and wait.
+* Hold a food item or toy that your child dislikes out near your child to offer it.
+* Place a desired food item or toy in a clear container that your child cannot open while your child is watching. Put the container in front of your child and wait.
+* Place your child’s hands in a cold; wet or sticky substance, such as jello, pudding or paste.
+* Roll a ball to your child. After your child returns the ball three times, immediately roll a rattle or a toy on wheels to him or her.
+* Engage your child in putting together a puzzle. After your child has put in 3 pieces, offer your child a piece that does not fit.
+* Engage your child in an activity with a something that can be easily spilled (or dropped, broken, torn, etc.). Suddenly spill some of the substance on the table or floor in front of your child and wait.
+* Wave and say “bye bye” to a toy upon removing it from the play area. Repeat this for a second and third toy, and do nothing when removing a fourth toy. These four trials should be interspersed throughout the other temptations, rather than be presented in a series.
+* Hide a stuffed animal under the table. Knock, then bring out the animal. Have the animal greet your child the first time. Repeat this for a second and third time, and do nothing when bringing out the animal for the fourth time. These four trials should also be interspersed when presented.
+* Put an object that makes noise in an opaque bag and shake the bag. Hold up the bag and wait.
+* Give your child the materials for an activity of interest that needs an instrument for completion (e.g., piece of paper to draw on or cut; bowl of pudding or soup). Hold the instrument out of your child’s reach and wait.
+* Engage your child in an activity of interest that needs an instrument for completion (e.g., crayon for drawing, spoon for eating, or wand for blowing bubbles). Have a third person come over and take the instrument, go sit on the distant side of the room, while holding the instrument within your child’s sight and wait.
 
+---
 
 Organize the environment to facilitate communication, by using communicative temptations, sabotage, reinforcement of new vocabulary, and experiences - especially with toddlers.
 

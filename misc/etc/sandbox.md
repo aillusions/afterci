@@ -673,3 +673,33 @@ I водички принесе.
 • Пограти в паровозик: погудіть, «у-у», губи трубочкою (можете показувати при цьому намальований або іграшковий паровозик).
 • Показати, як гуде пароплав: відкривши рот, тягнемо звук «и-и-и».
 • Показати дитині годинник з маятником, нехай малюк зобразить, як він працює, точно так само посувайте язиком: вправо-вліво, в куточки рота.
+
+---
+
+http://www.momminitup.com/developmental-delays/speech-therapy-activities-for-toddlers/
+
+1) Puzzles – easy right? We all have puzzles at home. Jonah is especially motivated by sound puzzles like these from Melissa & Doug.
+
+MelissaDougSoundPuzzles
+
+To start out, take all the pieces out of the puzzle and give your child the empty puzzle board. Then hold the pieces up one by one and have him or her name the object. If they don’t know it, say the object’s name “Elephant. This is an elephant.” If they do know it, give lots of praise and then give them the puzzle piece. When they put  it in they get rewarded by a nice, fun sound! After a few times, to make this more fun,  do a little tug of war when you hand the puzzle piece over and make your kiddo pull it out of your hand.
+
+The next level you can take with this is to have them name the object, then ask: “Do you want the elephant?” Let them know what response you want from them, (depending on your goals) by modeling it and prompting at first. You might want them to say “yes” before you hand it  over, or you might want them to say, “I want elephant”. Once they know what you want them to say, try to elicit that response before you hand the piece over, prompting at first, and then waiting them out until they come up with the right response.
+
+Finally, a more advanced activity which Jonah and I have just started about a week ago: using two puzzles at a time to teach about categories. Here’s how I do it. I empty all the pieces of two different puzzles into a bag, and place the empty puzzles on the table. Then Jonah and I take turns drawing a puzzle piece out of the bag. If I get an animal, I place it on the musical instrument puzzle and I say, “Is an elephant an instrument? Nooooo! An elephant is an animal!” Then I give him the piece and let him put it in the right place. Eventually the goal is to have Jonah fill in the word “No” and “animal”, to teach him what categories things belong in. He is doing really well with this already with the categories we have worked on so far – animals, musical instruments, and shapes. He thinks it’s hilarious to hold a piece up to the wrong puzzle and say “nooooo!”
+
+2) Games
+
+There are few games made for toddlers but I have found an awesome one so I have to share! It’s Roll & Play by ThinkFun. I happened to randomly find this at our local Books-a-Million last week and what a find it was! Normally $20, for some reason it was on clearance for $3. Once we got i home I loved it so much I went back and bought the only other one they had for a friend.
+
+Rollandplay
+
+The game is super-simple: roll the cube and pick a card that corresponds to the color the cube lands on. Do the action that is on the card, like “touch your belly button”, “moo like a cow”, or “find something red”. It’s great for learning to follow directions, learning turn-taking, colors, counting, animal sounds, emotions, and body parts. And it’s FUN! Jonah loves it and so do I. Sophie even loves playing it with us, and it’s always fun to get big siblings involved.
+
+The next game is one we’ve all played since we were little: Connect Four!
+
+connect4
+
+Now, we don’t play this in the traditional way, after all, Jonah is only 2. But this game can be used to do something toddlers love: fill something up, dump it out, and do it again! When it’s his turn, I ask him, “Whose turn is it?” with the goal that he will say “my turn”. Eventually I will hope to get him to say “Mommy’s turn” or “your turn” when it’s my turn to go. I hold up a red and yellow checker and have him say “I want yellow” (or red) before I’ll hand it over, and we usually play the little tug of war with each checker as well. There are lots of different phrases or words you could work to elicit from this game, such as “more”, “more please”, or “more checkers” or “yes” or “no” answers – just depends on what you want to work on.
+
+Well, this had gotten rather long so I’ll stop there – hopefully I’ll have even more ideas for you soon! Got questions about toddler speech therapy at home? Leave them in the comments! But remember I’m not an expert…just a mom who’s been around the therapy block a time or two.
